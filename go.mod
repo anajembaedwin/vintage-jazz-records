@@ -1,6 +1,6 @@
 module example.com/web-service-gin
 
-go 1.23
+go 1.20
 
 require github.com/gin-gonic/gin v1.9.1
 
